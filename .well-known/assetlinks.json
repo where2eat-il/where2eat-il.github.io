@@ -5,5 +5,13 @@
     "package_name": "foxfoodreviews.wheretoeat",
     "sha256_cert_fingerprints":
     ["12:7E:47:F8:CC:C4:B2:5A:4A:6C:52:3D:12:A0:27:2A:E0:ED:73:3A:08:B4:EA:DA:61:6F:F3:6F:B1:6C:6D:A2"]
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "foxfoodreviews.wheretoeat",
+    "sha256_cert_fingerprints":
+    ["C3:EC:BE:C0:B2:20:3C:98:84:33:C7:2A:BD:05:B5:35:08:9E:6B:8F:9E:68:3B:84:30:6E:3B:CF:CF:4C:32:C9"]
   }
 }]
